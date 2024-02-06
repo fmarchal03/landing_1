@@ -6,7 +6,7 @@ body {
 }
 
 .banner {
-  background: url('../../images/lambo_glow.jpg') no-repeat center center/cover;
+  background: url('./images/lambo_glow.jpg') no-repeat center center/cover;
   color: #fff;
   height: 90vh;
   display: flex;
